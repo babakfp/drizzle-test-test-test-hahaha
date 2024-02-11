@@ -8,6 +8,13 @@
       "when": 1707321379640,
       "tag": "0000_military_chronomancer",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1707660887468,
+      "tag": "0001_glamorous_darkhawk",
+      "breakpoints": true
     }
   ]
 }
