@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
         "dev": "vite dev",
-        "build": "vite build",
+        "build": "vite build && node run copy.js",
         "preview": "vite preview",
         "studio": "drizzle-kit studio"
     },
